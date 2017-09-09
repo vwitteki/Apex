@@ -1,0 +1,25 @@
+Chex^_Cereal^_07/06/1993
+Apple^_Produce^_07/06/1993
+Ketchup^_Sauce^_07/06/1993
+Mustard^_Sauce^_07/06/1993
+Mayo^_Sauce^_07/06/1993
+Sweet Relish^_Sauce^_07/06/1993
+Apple^_Produce^_07/06/1993
+Chex^_Cereal^_07/06/1993
+Orange^_Produce^_07/06/1993
+Chex^_Cereal^_07/06/1993
+Chex^_Cereal^_07/06/1993
+Chex^_Cereal^_02/02/1993
+Potato^_Produce^_02/02/1993
+Chex^_Cereal^_07/06/1993
+Carrot^_Produce^_02/06/1993
+Whole Chicken^_Deli^_02/05/1993
+Roast Beef^_Deli^_02/04/1993
+Macaroni^_Deli^_02/03/1993
+Chicken Salad^_Deli^_02/02/1993
+Carrot^_Produce^_02/02/1993
+Chex^_Cereal^_02/02/1993
+Chex^_Cereal^_01/02/1993
+01Chex^_Cereal^_01/03/1993
+00Apple^_Produce^_01/04/1993
+Apple^_Produce^_01/01/1993

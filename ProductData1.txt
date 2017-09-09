@@ -1,0 +1,25 @@
+Butter (Salted)^_Dairy^_07/06/1993
+Butter (Unsalted)^_Dairy^_07/06/1993
+Ground Chuck^_Meat^_07/06/1993
+Top Sirloin^_Meat^_07/06/1993
+Goat Butter^_Dairy^_07/06/1993
+Whole Milk^_Dairy^_07/06/1993
+Top Sirloin^_Meat^_07/06/1993
+Chipotles in Adobo Sauce^_Canned Goods^_07/06/1993
+2% Milk^_Dairy^_07/06/1993
+Skim Milk^_Dairy^_07/06/1993
+Whole Chicken^_Meat^_07/06/1993
+Swiss Cheese^_Dairy^_07/06/1993
+Goat Cheese^_Dairy^_07/06/1993
+Captain Crunch^_Cereal^_07/06/1993
+PayDay^_Candy^_07/06/1993
+Fruit Loops^_Cereal^_07/06/1993
+Smacks^_Cereal^_07/06/1993
+Chex^_Cereal^_07/06/1993
+Frosted Flakes^_Cereal^_07/06/1993
+Top Sirloin^_Meat^_07/06/1993
+Chicken Thighs^_Meat^_07/06/1993
+Chicken Noodle^_Canned Goods^_01/01/1993
+Peas^_Canned Goods^_07/06/1993
+Black Beans^_Canned Goods^_07/06/1993
+Tomatoes^_Canned Goods^_01/01/1993

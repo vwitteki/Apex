@@ -1,14 +1,14 @@
-Chex^_Cereal^_07/06/1993
-Apple^_Produce^_07/06/1993
-Ketchup^_Sauce^_07/06/1993
-Mustard^_Sauce^_07/06/1993
+Chex^_Cereal^_07/06/2050
+Apple^_Produce^_07/06/2000
+Ketchup^_Sauce^_07/06/2001
+Mustard^_Sauce^_07/06/2020
 Mayo^_Sauce^_07/06/1993
 Sweet Relish^_Sauce^_07/06/1993
 Apple^_Produce^_07/06/1993
 Chex^_Cereal^_07/06/1993
 Orange^_Produce^_07/06/1993
 Chex^_Cereal^_07/06/1993
-Chex^_Cereal^_07/06/1993
+Chex^_Cereal^_07/06/2012
 Chex^_Cereal^_02/02/1993
 Potato^_Produce^_02/02/1993
 Chex^_Cereal^_07/06/1993

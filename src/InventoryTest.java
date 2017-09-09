@@ -21,7 +21,7 @@ public class InventoryTest {
 		 * Add the first data set,
 		 * then return products sorted by name
 		 */
-		inventory.AddDataFromSrc("ProductData1.txt");
+		inventory.AddDataFromSrc("../ProductData1.txt");
 		inventory.printSortedList(Inventory.ProductCompare.ByName);
 		System.out.println(sectionBreak);
 		
@@ -29,7 +29,7 @@ public class InventoryTest {
 		 * Add the second data set,
 		 * then return products sorted by category
 		 */
-		inventory.AddDataFromSrc("ProductData2.txt");
+		inventory.AddDataFromSrc("../ProductData2.txt");
 		inventory.printSortedList(Inventory.ProductCompare.ByCategory);
 		System.out.println(sectionBreak);
 		
@@ -37,7 +37,7 @@ public class InventoryTest {
 		 * Add the third data set,
 		 * then return products sorted by expiration date
 		 */
-		inventory.AddDataFromSrc("ProductData3.txt");
+		inventory.AddDataFromSrc("../ProductData3.txt");
 		inventory.printSortedList(Inventory.ProductCompare.ByExpDate);
 		System.out.println(sectionBreak);
 		
